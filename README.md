@@ -1,1 +1,1 @@
-# icis_sup_mat
+# Supplementary Material for Submission #12345 on the International Conference on Information Systems 2025
